@@ -1,0 +1,4 @@
+- To illustrate a real-time embedded control application and the use of interrupts
+- To provide experience using various 9S12C32 integrated peripherals, including the pulse
+width modulation (PWM) unit, the analog-to-digital (ATD) unit, the serial communications
+interface (SCI), the pulse accumulator (PA) unit, and the serial peripheral interface (SPI) 
