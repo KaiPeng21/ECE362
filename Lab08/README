@@ -1,0 +1,3 @@
+- To illustrate how the TIM module can be used to implement a precision time base
+- To illustrate how the SPI module can be used in conjunction with an external shift register to
+expand I/O
