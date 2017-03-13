@@ -1,0 +1,4 @@
+- To illustrate how analog signals can be sampled using the ATD and reconstructed using the
+PWM (used in conjunction with a low-pass filter)
+- To illustrate the effects of input sampling rate and output sampling rate on the quality of signal
+reconstruction 
