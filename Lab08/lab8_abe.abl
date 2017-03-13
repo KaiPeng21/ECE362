@@ -1,0 +1,15 @@
+MODULE lab8_abel
+
+DECLARATIONS
+REG14..REG21 pin 14..21 istype 'reg';
+SERIAL_IN pin 2;
+CLOCK pin 1;
+
+EQUATIONS
+
+[REG21..REG15] := [REG20..REG14];
+REG14 := SERIAL_IN;
+[REG21..REG14].CLK = CLOCK; 
+
+END 
+
