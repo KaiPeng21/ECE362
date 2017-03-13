@@ -1,0 +1,3 @@
+- To learn how an external interrupt device flag can be realized
+- To learn how microcontroller port pins can be used as both inputs and outputs
+- To learn how to write an interrupt service routine 
