@@ -1,0 +1,15 @@
+MODULE Lab7Prelab
+
+DECLARATIONS
+!REG14..!REG23 pin 14..23 istype 'reg';
+PT3 pin 2;
+PT4 pin 1;
+
+EQUATIONS
+
+[REG23..REG15] := [REG22..REG14];
+REG14 := PT3;
+[REG23..REG14].CLK = PT4; 
+
+END 
+
